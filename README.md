@@ -22,12 +22,15 @@ Bem-vindo ao meu portfólio de projetos em **SQL**! 🚀 Aqui você encontrará 
   - Quais produtos têm o maior volume de vendas?
   - Qual a receita total gerada por cada categoria de produto?
 
-### 2. 🛒 Análise de Compras por Cliente
-- **Descrição**: Este projeto explora uma base de dados de compras para identificar padrões de consumo, medir a fidelidade dos clientes e calcular a média de gastos.
+### 3. 🏢 Análise de Recursos Humanos
+- **Descrição**: Análise de uma base de dados de RH para obter insights sobre contratações, aprovações de férias e padrões salariais, ajudando a empresa a entender melhor a gestão de seus funcionários.
 - **Principais Perguntas Respondidas**:
-  - Quais clientes gastaram mais na plataforma?
-  - Qual é o método mais eficaz de pagamento?
-  - Qual mês gerou mais faturamento?
+- Qual é o departamento que mais contrata?
+- Qual é o salário médio por departamento?
+- Qual é o departamento que mais aprova pedidos de férias?
+- Quantos funcionários foram contratados em cada ano?
+- Existe diferença significativa de salário entre os gêneros?
+- Quem são os funcionários com os maiores salários e em quais áreas atuam?
 
 
 ## 🧰 Ferramentas Utilizadas

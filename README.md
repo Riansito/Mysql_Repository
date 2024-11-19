@@ -1,3 +1,4 @@
+---
 
 # 📊 Portfólio de Projetos em SQL
 
@@ -25,8 +26,9 @@ Bem-vindo ao meu portfólio de projetos em **SQL**! 🚀 Aqui você encontrará 
 - **Descrição**: Este projeto explora uma base de dados de compras para identificar padrões de consumo, medir a fidelidade dos clientes e calcular a média de gastos.
 - **Principais Perguntas Respondidas**:
   - Quais clientes gastaram mais na plataforma?
-  - Qual é o metodo mais eficaz de pagamento?
+  - Qual é o método mais eficaz de pagamento?
   - Qual mês gerou mais faturamento?
+
 
 ## 🧰 Ferramentas Utilizadas
 - **MySQL**: Para consulta e análise dos dados.
@@ -47,5 +49,4 @@ Bem-vindo ao meu portfólio de projetos em **SQL**! 🚀 Aqui você encontrará 
 Estou continuamente expandindo este portfólio com novas análises e projetos em SQL. Fique à vontade para acompanhar o repositório para ver atualizações futuras!
 
 ## 📞 Contato
-Se tiver dúvidas ou sugestões, você pode entrar em contato comigo através do meu [LinkedIn](www.linkedin.com/in/rian-freires-da-costa-silva-798813324) ou pelo e-mail: **rian.freires@gmail.com**.
-
+Se tiver dúvidas ou sugestões, você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/rian-freires-da-costa-silva-798813324) ou pelo e-mail: **rian.freires@gmail.com**.

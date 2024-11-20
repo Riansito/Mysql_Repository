@@ -1,3 +1,5 @@
+
+
 ---
 
 # 📊 Portfólio de Projetos em SQL
@@ -22,16 +24,24 @@ Bem-vindo ao meu portfólio de projetos em **SQL**! 🚀 Aqui você encontrará 
   - Quais produtos têm o maior volume de vendas?
   - Qual a receita total gerada por cada categoria de produto?
 
+### 2. 💰 Análise Financeira de Transações
+- **Descrição**: Uma análise aprofundada de uma base de dados financeira para identificar padrões em transações e criar insights úteis para a gestão financeira.
+- **Principais Perguntas Respondidas**:
+  - Qual é o volume total de transações em cada categoria?
+  - Quais são os meses de maior e menor fluxo financeiro?
+  - Existe sazonalidade nas transações?
+  - Qual é a média de gastos por categoria?
+  - Qual é o valor máximo e mínimo de transações em cada categoria?
+
 ### 3. 🏢 Análise de Recursos Humanos
 - **Descrição**: Análise de uma base de dados de RH para obter insights sobre contratações, aprovações de férias e padrões salariais, ajudando a empresa a entender melhor a gestão de seus funcionários.
 - **Principais Perguntas Respondidas**:
-- Qual é o departamento que mais contrata?
-- Qual é o salário médio por departamento?
-- Qual é o departamento que mais aprova pedidos de férias?
-- Quantos funcionários foram contratados em cada ano?
-- Existe diferença significativa de salário entre os gêneros?
-- Quem são os funcionários com os maiores salários e em quais áreas atuam?
-
+  - Qual é o departamento que mais contrata?
+  - Qual é o salário médio por departamento?
+  - Qual é o departamento que mais aprova pedidos de férias?
+  - Quantos funcionários foram contratados em cada ano?
+  - Existe diferença significativa de salário entre os gêneros?
+  - Quem são os funcionários com os maiores salários e em quais áreas atuam?
 
 ## 🧰 Ferramentas Utilizadas
 - **MySQL**: Para consulta e análise dos dados.
@@ -53,3 +63,7 @@ Estou continuamente expandindo este portfólio com novas análises e projetos em
 
 ## 📞 Contato
 Se tiver dúvidas ou sugestões, você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/rian-freires-da-costa-silva-798813324) ou pelo e-mail: **rian.freires@gmail.com**.
+
+--- 
+
+Se precisar de mais alterações, é só avisar! 😊

@@ -4,7 +4,7 @@
 
 # 📊 Portfólio de Projetos em SQL
 
-Bem-vindo ao meu portfólio de projetos em **SQL**! 🚀 Aqui você encontrará exemplos de consultas SQL que demonstram minhas habilidades em **MySQL**, com foco em **análise exploratória de dados**, **descoberta de padrões** e **insights estratégicos**. Meu objetivo é mostrar como utilizo SQL para extrair, transformar e analisar dados de maneira eficiente.
+Bem-vindo ao meu portfólio de projetos em **SQL**! 🚀 Aqui você encontrará exemplos de consultas SQL que demonstram minhas habilidades na linguagem **SQL**, com foco em **análise exploratória de dados**, **descoberta de padrões** e **insights estratégicos**. Meu objetivo é mostrar como utilizo SQL para extrair, transformar e analisar dados de maneira eficiente.
 
 ## 🛠️ Habilidades Demonstradas
 
@@ -62,7 +62,7 @@ Bem-vindo ao meu portfólio de projetos em **SQL**! 🚀 Aqui você encontrará 
 Estou continuamente expandindo este portfólio com novas análises e projetos em SQL. Fique à vontade para acompanhar o repositório para ver atualizações futuras!
 
 ## 📞 Contato
-Se tiver dúvidas ou sugestões, você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/rian-freires-da-costa-silva-798813324) ou pelo e-mail: **rian.freires@gmail.com**.
+Se tiver dúvidas ou sugestões, você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/rian-freires-da-costa-silva-798813324) ou pelo e-mail: **rianfreires40@gmail.com**.
 
 --- 
 
